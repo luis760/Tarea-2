@@ -1,0 +1,38 @@
+La representación del conocimiento en los sistemas expertos se refiere a cómo se estructura y organiza el conocimiento extraído de expertos humanos dentro del sistema informático. 
+Esta representación es esencial para que el sistema pueda comprender, almacenar y utilizar el conocimiento de manera efectiva para resolver problemas, 
+tomar decisiones y brindar recomendaciones en un campo específico.
+
+
+Propósito y Utilidad:
+La representación del conocimiento cumple varios propósitos clave en los sistemas expertos:
+
+Acceso eficiente: Permite que el sistema acceda rápidamente a la información relevante para resolver problemas o tomar decisiones.
+
+Razonamiento: Facilita el proceso de razonamiento al proporcionar una estructura lógica en la que el sistema puede evaluar situaciones y aplicar reglas y heurísticas.
+
+Interpretación: Ayuda al sistema a interpretar y comprender el contexto y los datos ingresados, lo que permite respuestas y soluciones más precisas.
+
+Actualización y mantenimiento: Facilita la actualización y modificación del conocimiento a medida que cambian las circunstancias o se adquiere nuevo conocimiento.
+
+
+Cómo funciona:
+La representación del conocimiento en los sistemas expertos se puede realizar utilizando diferentes enfoques y estructuras, según el tipo de conocimiento y el problema que el sistema debe abordar. 
+Algunos de los enfoques comunes incluyen:
+
+Reglas: Los sistemas expertos pueden utilizar reglas lógicas condicionales del tipo "si-entonces" para representar el conocimiento. 
+Estas reglas establecen cómo el sistema debe actuar en función de las condiciones presentes en una situación.
+
+Redes Semánticas: Utilizan nodos y relaciones para representar el conocimiento. Los nodos pueden representar conceptos y las relaciones entre nodos indican conexiones lógicas o jerárquicas.
+
+Marcos y Frames: Son estructuras que almacenan información sobre objetos o situaciones en forma de atributos y valores. 
+Los marcos pueden heredar atributos de otros marcos y permiten representar conocimiento estructurado.
+
+Lógica de Predicados: Utiliza reglas lógicas más complejas para representar el conocimiento. Permite una representación más precisa y expresiva, pero también es más compleja de manejar.
+
+Redes Neuronales y Modelos de Aprendizaje Automático: En algunos casos, los sistemas expertos modernos pueden utilizar 
+modelos de aprendizaje automático para capturar patrones y relaciones en los datos, adaptándose y actualizando el conocimiento de manera más dinámica.
+
+En el funcionamiento diario, el sistema experto consulta su base de conocimiento utilizando las estructuras de representación para evaluar situaciones específicas. 
+Aplica reglas, realiza inferencias y toma decisiones en función de las condiciones y datos presentes en ese momento.
+En resumen, la representación del conocimiento en los sistemas expertos es crucial para organizar, almacenar y aplicar el conocimiento adquirido de expertos humanos. 
+La elección de la estructura de representación depende del tipo de conocimiento y el contexto de aplicación.

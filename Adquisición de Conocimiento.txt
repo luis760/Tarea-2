@@ -1,0 +1,27 @@
+Los sistemas expertos son programas de computadora diseñados para imitar el conocimiento y la experiencia de un experto humano en un campo particular. 
+Estos sistemas se basan en la inteligencia artificial y se utilizan para resolver problemas complejos al tomar decisiones o brindar recomendaciones similares a las que un experto humano haría.
+La adquisición de conocimiento en los sistemas expertos se refiere al proceso de capturar y transferir el conocimiento de un experto humano al sistema informático. 
+Este proceso es fundamental para el funcionamiento efectivo de un sistema experto, ya que el conocimiento es la base sobre la cual el sistema toma decisiones y genera respuestas.
+El proceso de adquisición de conocimiento en los sistemas expertos generalmente implica varios pasos:
+
+1. Identificación de expertos:** Seleccionar a los expertos humanos que poseen el conocimiento relevante para el problema que el sistema experto abordará.
+
+2. Elicitación de conocimiento:** Entrevistar a los expertos para extraer su conocimiento.
+  Esto puede hacerse a través de preguntas, escenarios hipotéticos o análisis de casos. El objetivo es comprender cómo los expertos toman decisiones y cuáles son los factores que consideran importantes.
+
+3. Representación del conocimiento:** Traducir el conocimiento extraído en un formato que el sistema experto pueda comprender y utilizar. 
+  Esto generalmente se realiza mediante reglas, árboles de decisión, redes semánticas u otras estructuras de datos.
+
+4. Validación y refinamiento: 
+  Verificar que el conocimiento representado sea preciso y completo. Los expertos pueden revisar y validar las reglas y estructuras creadas para asegurarse de que reflejen con precisión su experiencia.
+
+5. Incorporación en el sistema:
+  Introducir el conocimiento en el sistema experto, donde se utilizará para tomar decisiones, responder preguntas o proporcionar recomendaciones.
+
+6. Prueba y ajuste:
+  Probar el sistema experto en situaciones reales o simuladas y ajustar el conocimiento según sea necesario. Esto permite refinar las reglas y mejorar el rendimiento del sistema con el tiempo.
+
+El funcionamiento de un sistema experto después de la adquisición de conocimiento involucra la aplicación de reglas y heurísticas para analizar datos, evaluar situaciones y tomar decisiones. 
+Cuando el sistema recibe nueva información o datos, consulta su base de conocimiento y aplica las reglas establecidas para generar respuestas o soluciones.
+En resumen, la adquisición de conocimiento en los sistemas expertos implica capturar la experiencia y el juicio de expertos humanos y transformar 
+ese conocimiento en reglas y estructuras que un sistema informático pueda utilizar para tomar decisiones informadas en situaciones relevantes.

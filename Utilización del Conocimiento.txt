@@ -1,0 +1,40 @@
+La utilización del conocimiento en los sistemas expertos se refiere a cómo se aplica el conocimiento almacenado en la base de 
+conocimiento del sistema para resolver problemas, tomar decisiones y brindar recomendaciones en situaciones específicas. 
+Esta etapa es esencial para que el sistema experto cumpla su propósito y aproveche la experiencia acumulada de los expertos humanos en un campo particular.
+
+
+Propósito y Utilidad:
+La utilización del conocimiento en los sistemas expertos tiene varios propósitos clave:
+
+Automatización de Tareas Expertas: Permite que el sistema experto realice tareas que normalmente requerirían la intervención de un experto humano. 
+  Esto puede incluir diagnósticos médicos, análisis de riesgos financieros, resolución de problemas técnicos, entre otros.
+
+Toma de Decisiones Informadas: Ayuda al sistema a tomar decisiones basadas en un conjunto de reglas y heurísticas definidas por expertos humanos. 
+  Esto puede ser especialmente útil en situaciones complejas en las que múltiples factores deben ser considerados.
+
+Generación de Recomendaciones: Permite que el sistema ofrezca recomendaciones a los usuarios, basadas en el conocimiento experto almacenado, para ayudarles a tomar decisiones informadas.
+
+Estandarización del Conocimiento: Facilita la aplicación coherente del conocimiento experto en diferentes situaciones, evitando variaciones debido a factores humanos como el estado de ánimo o la fatiga.
+
+
+Cómo funciona:
+La utilización del conocimiento en los sistemas expertos involucra varios pasos y procesos:
+
+Entrada de Datos: El sistema recibe datos relevantes para la situación en cuestión. Estos datos pueden ser proporcionados por el usuario o ser recopilados automáticamente.
+
+Análisis y Evaluación: El sistema analiza los datos en función de las reglas y heurísticas almacenadas en su base de conocimiento.
+  Realiza comparaciones, cálculos y evalúa la información para comprender la situación.
+
+Inferencia: Basándose en las reglas y patrones de conocimiento, el sistema realiza inferencias para extraer conclusiones y tomar decisiones. Aplica razonamiento lógico para deducir información relevante.
+
+Acciones y Recomendaciones: El sistema determina las acciones a tomar o las recomendaciones a ofrecer en función de las inferencias realizadas. 
+  Puede comunicar estas acciones o recomendaciones al usuario de manera clara y comprensible.
+
+Comunicación de Resultados: El sistema presenta los resultados al usuario, brindando explicaciones y justificaciones basadas en el conocimiento experto que respalda las decisiones tomadas.
+
+Aprendizaje y Adaptación (si aplica): En algunos sistemas expertos, la retroalimentación del usuario y los resultados obtenidos 
+pueden ser utilizados para mejorar el conocimiento y el rendimiento del sistema en el futuro.
+
+En resumen, la utilización del conocimiento en los sistemas expertos implica la aplicación efectiva de las reglas, heurísticas y patrones 
+almacenados en la base de conocimiento del sistema para tomar decisiones, generar recomendaciones y resolver problemas en un campo específico. 
+Este proceso permite que el sistema actúe como un experto humano en situaciones relevantes y complejas.
